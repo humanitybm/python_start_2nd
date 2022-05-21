@@ -1,3 +1,5 @@
+# Файл умных заметок
+# Разработан на курсе python Start
 from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import QInputDialog, QApplication, QWidget, QPushButton, QLabel, QListWidget, QLineEdit, QTextEdit, QInputDialog, QHBoxLayout, QVBoxLayout, QFormLayout
 
